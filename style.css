@@ -1,0 +1,8 @@
+.cart_btn {
+    cursor: pointer;
+}
+#input_num::-webkit-inner-spin-button,
+#input_num::-webkit-outer-spin-button{
+    -webkit-apperance: none;
+    margin: 0;
+}
